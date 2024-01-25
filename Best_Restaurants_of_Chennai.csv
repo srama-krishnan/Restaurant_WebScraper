@@ -1,0 +1,410 @@
+,Hotel Name,Address,Rating (5),Price (2)
+0,Coal Barbecues,"BT Nagar, Central Chennai",4.1,1800
+1,Jalpaan,JS West Chennai,4.1,1200
+2,ABs - Absolute Barbecues,"BS Devi Park Hotel,Thyagaraya Nagar, Central Chennai",4.2,1850
+3,Trella,"TJ Hotel,Thyagaraya Nagar, Central Chennai",4.1,1500
+4,Hotel Saravana Bhavan,"BT Nagar, Central Chennai",4.0,600
+5,Take 2,"2T Cine City hotel,Kodambakkam, West Chennai",4.3,1700
+6,Pulusu,"PT Nagar, Central Chennai",4.0,800
+7,Puducherry Hotel Sri Kamatchi,"KA Nagar, West Chennai",4.0,600
+8,Arab Street,"SA Nagar, West Chennai",4.2,800
+9,Madras Coffee House,"HT Nagar, Central Chennai",5.0,200
+10,Idlies,"IT Nagar, Central Chennai",4.5,300
+11,Paati Veedu,"VT Nagar, Central Chennai",4.0,1500
+12,Barbeque Nation,"NT Nagar, Central Chennai",4.2,1800
+13,Big Bang Theory - Bar & Kitchen,"KB Star Boutique Hotel,Kodambakkam, West Chennai",4.1,2000
+14,Watson's,"WT Nagar, Central Chennai",4.2,1600
+15,Spice Bar,"BT Nagar, Central Chennai",4.3,1500
+16,ABs - Absolute Barbecues,"BT Nagar, Central Chennai",4.2,1800
+17,Pakwan Chennai,"CT Nagar, Central Chennai",4.5,800
+18,Chin Chin,"CT Residency,Thyagaraya Nagar, Central Chennai",4.4,1500
+19,Express By A,"AB Nagar, Central Chennai",5.0,600
+20,Curly Cravings,CK West Chennai,4.1,500
+21,Chai Waale,"WT Nagar, Central Chennai",4.0,200
+22,Pavilion,"PT Residency,Thyagaraya Nagar, Central Chennai",4.1,1500
+23,Royal Indianaa,"IT Accord Metropolitan Hotel,Thyagaraya Nagar, Central Chennai",4.6,2400
+24,Juice Forest,"FA Nagar, West Chennai",4.1,300
+25,Kuuraku,"KH Green Park,Vadapalani, West Chennai",4.3,1000
+26,BR Mathsya,"MT Nagar, Central Chennai",4.0,1000
+27,Cafe Central,"CT Nagar, Central Chennai",4.3,800
+28,Black And White,"WT Residency,Thyagaraya Nagar, Central Chennai",4.4,1500
+29,Southern Station,"ST Nagar, Central Chennai",4.0,800
+30,The Godown Bar,"BT Nagar, Central Chennai",4.1,1800
+31,La Cabana,"CH Park Elanza,Nungambakkam, Central Chennai",4.5,2000
+32,Lexxus,"LH Benzz Park,Thyagaraya Nagar, Central Chennai",4.0,1800
+33,Cake Waves,"WA Nagar, West Chennai",5.0,500
+34,Ferraree,"FH Benzz Park,Thyagaraya Nagar, Central Chennai",4.0,900
+35,Dindigul Thalappakatti,"TT Nagar, Central Chennai",4.1,700
+36,Texas,"TJ Hotel,Thyagaraya Nagar, Central Chennai",4.0,1000
+37,Madras Coffee House,HV West Chennai,5.0,200
+38,Up North,"NT Raintree,Teynampet, Central Chennai",4.4,2500
+39,Dindigul Thalappakatti,"TA Nagar, West Chennai",4.2,700
+40,Main Street,"ST Residency Towers,Thyagaraya Nagar, Central Chennai",4.2,3000
+41,The Yumm Factory,"FJ Hotel,Thyagaraya Nagar, Central Chennai",4.0,800
+42,The Brick Oven,"OT Accord Metropolitan Hotel,Thyagaraya Nagar, Central Chennai",4.4,2500
+43,Hotel Saravana Bhavan,"BA Nagar, West Chennai",4.2,600
+44,J.,"JH by GRT Hotels,Thyagaraya Nagar, Central Chennai",4.6,2500
+45,Kommune,"KT Nagar, Central Chennai",4.1,1900
+46,Bike and Barrel Bar,"BT Residency Towers,Thyagaraya Nagar, Central Chennai",4.1,2000
+47,Locofeast,LN Central Chennai,4.2,1000
+48,Dank,"DT Nagar, Central Chennai",4.3,2800
+49,Salt,"SF Vijaya Mall,Vadapalani, West Chennai",4.1,1200
+50,Barbeque Nation,"NA Skywalk Mall,Aminjikarai, North Chennai",4.2,1800
+51,Bazaar - All Day Diner,"DG by GRT Hotels,Thyagaraya Nagar, Central Chennai",4.1,2000
+52,Lower Deck,"DH Park Elanza,Nungambakkam, Central Chennai",4.5,2700
+53,Cafe De Bangkok,BN Central Chennai,4.3,1000
+54,Ministry Of Drinks,DN Central Chennai,4.0,1800
+55,The Kitchen,"KT Raintree,Teynampet, Central Chennai",4.1,2500
+56,Koox,"KN Chennai,Nandanam, Central Chennai",4.1,2000
+57,Chennai Darbar,"DA Nagar, West Chennai",4.3,700
+58,Gastronomer by Double Roti,RT Central Chennai,4.5,900
+59,Stix,"SH Regency Hotel,Teynampet, Central Chennai",4.4,1000
+60,Food Exchange,"EN Chennai,Nandanam, Central Chennai",4.2,1400
+61,Murugan Idli Shop,SV West Chennai,4.7,300
+62,Lobby Lounge,"LH Regency Hotel,Teynampet, Central Chennai",4.5,1900
+63,The Thief,TN Central Chennai,4.1,1600
+64,Paprika Cafe,"CC by Marriott,Teynampet, Central Chennai",4.0,2500
+65,Mathsya,MA South Chennai,4.2,800
+66,Tepin Chilli,"CH Park Elanza,Nungambakkam, Central Chennai",4.1,1200
+67,Sandy's Chocolate Laboratory,LT Central Chennai,4.6,1200
+68,Ciclo Cafe,CK Central Chennai,4.5,1700
+69,Mainland China,CT Central Chennai,4.1,1200
+70,Kailash Parbat,PA South Chennai,4.2,800
+71,The Fat Boy,BA Central Chennai,4.5,1500
+72,Millet Maagic Meal,MA Central Chennai,4.8,300
+73,Madras Coffee House,HA Central Chennai,5.0,200
+74,The Cascade,"CP Tower,Nungambakkam, Central Chennai",4.7,800
+75,Cafe Cake,CB Central Chennai,4.5,1000
+76,Copper Kitchen,KS West Chennai,4.3,1000
+77,Spice Klub,KN Central Chennai,4.4,1800
+78,Masaledaar Dhaba,DS West Chennai,4.4,600
+79,The Velveteen Rabbit,"RR Puram, Central Chennai",4.2,4200
+80,Mezze,MA Central Chennai,4.5,1000
+81,Superstar Pizza,PA Central Chennai,4.5,800
+82,The Westminster,"WC Plaza Chennai Adyar Park,Alwarpet, Central Chennai",4.8,2000
+83,Dhaba Estd 1,"19 DelhiIspahani Center,Nungambakkam, Central Chennai",4.2,2000
+84,Off The Record,RN Central Chennai,4.2,2500
+85,Hotel Saravana Bhavan,BS West Chennai,4.0,600
+86,Cappuccino,"CC Plaza Chennai Adyar Park,Alwarpet, Central Chennai",4.3,1800
+87,6,"6O Park,Thousand Lights, Central Chennai",4.2,2800
+88,Benjarong,BA Central Chennai,4.6,1200
+89,Black Orchid,"OR Puram, Central Chennai",4.5,1900
+90,The Residency,"RC Plaza Chennai Adyar Park,Alwarpet, Central Chennai",4.2,3000
+91,Lyfe by Soul Garden Bistro,BA Central Chennai,4.4,800
+92,Aqua,"AT Park,Thousand Lights, Central Chennai",4.1,3800
+93,Teppan,TA Central Chennai,4.4,2000
+94,The Summer House Eatery,EA Central Chennai,4.3,1400
+95,Soy Soi,SK Central Chennai,4.4,1500
+96,The Bark,BA Central Chennai,4.3,1000
+97,Dindigul Thalappakatti,TN Central Chennai,4.1,700
+98,Indulge By Joker's Kitchen,"KI Center,Nungambakkam, Central Chennai",4.1,800
+99,Frozen Bottle,BA Central Chennai,4.4,400
+100,Cake Waves,WK West Chennai,4.5,500
+101,Crisp Cafe,CN Central Chennai,4.1,1000
+102,Savya Rasa,RK Central Chennai,4.3,1600
+103,Gears & Garage Restobar,RN Central Chennai,4.1,1200
+104,Aloe,AN Central Chennai,4.3,1000
+105,Cake Waves,WA North Chennai,4.3,500
+106,Toss,"TI Center,Nungambakkam, Central Chennai",4.0,800
+107,Cafe Toastie Express,EA North Chennai,4.2,700
+108,Toscano,TN Central Chennai,4.5,1500
+109,The Living Room,"RA Nagar, North Chennai",4.3,2400
+110,Chap Chay,"CT Raintree,Alwarpet, Central Chennai",4.4,2000
+111,Chai Waale,WA Central Chennai,4.0,200
+112,Jugalbhandhi,JN Central Chennai,4.0,1500
+113,Rangis,RN Central Chennai,4.0,600
+114,Tangerine,TA Central Chennai,4.4,1500
+115,Ente Keralam,KA Central Chennai,4.4,1000
+116,Brownie Heaven,HN Central Chennai,4.3,800
+117,Cake Waves,WT South Chennai,4.0,500
+118,Amelie's,AA Central Chennai,4.3,900
+119,Le Wrap Factorie,FA Central Chennai,5.0,300
+120,Mamagoto,"MO Building,Nungambakkam, Central Chennai",4.5,1500
+121,Sangamitra,SS South Chennai,4.1,800
+122,Little Italy,IN Central Chennai,4.5,1500
+123,Kaidi Kitchen,KM Central Chennai,4.2,1000
+124,B'veg - Our Secret Ingredient Is You,YG Central Chennai,4.3,800
+125,Goddy's,"GC Lawn,Nungambakkam, Central Chennai",4.1,1500
+126,China Town,TG Central Chennai,4.5,1500
+127,Slounge,"SL Tree Hotel,Guindy, South Chennai",4.5,1200
+128,Copper Chimney,CG Central Chennai,4.4,1500
+129,Tuscana Pizzeria,PN Central Chennai,4.1,1200
+130,Tibbs Frankie,FR Central Chennai,5.0,200
+131,Sera- The Tapas Bar & Restaurant,"RO Inn,Gopalapuram, Central Chennai",4.3,1500
+132,Barbeque Nation,"NB Mall,Nungambakkam, Central Chennai",4.2,1800
+133,Eating Circles,CA Central Chennai,4.2,400
+134,BFF - Club X,XO Central Chennai,4.1,2000
+135,New Desi Tadka,"TK Nagar, West Chennai",4.0,800
+136,Cinnamon House,HN Central Chennai,4.2,500
+137,Alchemy Bar & Lounge,"LH Raj Park,Alwarpet, Central Chennai",4.3,2200
+138,Amaravathi,AM Central Chennai,4.3,800
+139,English Tavern,TA Central Chennai,4.0,1500
+140,Goldman's Steakhouse,SN Central Chennai,4.4,1400
+141,Bombay Brasserie,BN Central Chennai,4.3,1200
+142,Waf Bites,"BK Nagar, West Chennai",4.3,300
+143,Writer's Cafe,CG Central Chennai,4.2,800
+144,Vintage Bank,"BH Chennai,Guindy, South Chennai",4.3,3200
+145,The Quintessence,"QH Raj Park,Alwarpet, Central Chennai",4.0,1200
+146,The Patiala House,HC Central Chennai,4.3,600
+147,Ayna,"AH Chennai,Guindy, South Chennai",4.1,3000
+148,The Fruit Bowl Co.,CR Central Chennai,5.0,500
+149,Vasco's,"VH Chennai,Guindy, South Chennai",4.0,3000
+150,Spice It,"II Chennai City Centre,Thousand Lights, Central Chennai",4.1,1500
+151,E,"ES Chennai,Guindy, South Chennai",4.0,1500
+152,Brasa,"BR Blu City Centre,Egmore, North Chennai",4.9,1800
+153,Mearth Cafe,"CR Puram, Central Chennai",4.3,800
+154,Haji Ali Juice Centre,CC Central Chennai,4.3,500
+155,The Marina,MN Central Chennai,4.4,800
+156,Lyfe by Soul Garden Bistro,BK North Chennai,4.2,800
+157,The Greenhouse Barbecue,"BH Blue Diamond,Kilpauk, North Chennai",4.3,1600
+158,The Pedreno's,PM Central Chennai,4.2,1900
+159,Abid's,AC Central Chennai,4.4,800
+160,Waf Bites,BI West Chennai,4.3,300
+161,Gully Baar,BK North Chennai,4.3,1700
+162,The Verandah,"VT Connemara,Anna Salai, Central Chennai",4.6,1800
+163,Brownie Heaven,HR Central Chennai,4.1,800
+164,27 Culinary Street,SM Central Chennai,4.0,1400
+165,Rolls on Wheels,WK North Chennai,5.0,300
+166,Azzuri Bay,BA South Chennai,4.2,1800
+167,The Fat Boy,"BS Nagar, West Chennai",4.7,1100
+168,The Great Kabab Factory,"FR Blu City Centre,Egmore, North Chennai",4.2,3000
+169,Pizza Avenue,AE North Chennai,4.8,700
+170,Writer's Cafe,CE North Chennai,4.4,800
+171,Dindigul Thalappakatti,TG South Chennai,4.2,700
+172,La Chocolate,CE North Chennai,4.3,700
+173,Delhi Highway,HE North Chennai,4.1,1300
+174,Olives,"OR Central Deccan,Royapettah, Central Chennai",4.1,900
+175,Brownie Heaven,HE North Chennai,4.0,800
+176,Jonah's Bistro,"BE Avenue Mall,Royapettah, Central Chennai",4.4,1400
+177,The Board Room,RM Central Chennai,4.2,500
+178,Punjab Grill,"GE Avenue Mall,Royapettah, Central Chennai",4.0,2000
+179,Cafe Treat,"TT Pride Hotel,Kilpauk, North Chennai",4.2,1200
+180,B,"BL CH3MISTRYValasaravakkam, West Chennai",4.1,1300
+181,Libarrel,LM Central Chennai,4.2,2200
+182,Silver Spoon,"SA Nagar, North Chennai",4.2,1000
+183,Waf Bites,BA South Chennai,4.7,300
+184,Prive Restaurant,RM Central Chennai,4.4,1200
+185,Mamagoto,"ME Avenue Mall,Royapettah, Central Chennai",4.0,1500
+186,Chai Waale,WK North Chennai,5.0,200
+187,Chai Waale,WE North Chennai,4.0,200
+188,Spice Trail,TE North Chennai,4.0,1000
+189,Taco Bell,"BE Avenue Mall,Royapettah, Central Chennai",4.0,500
+190,Murugan Idli Shop,"SA Nagar, North Chennai",4.4,300
+191,Lyfe by Soul Garden Bistro,"BE Avenue Mall,Royapettah, Central Chennai",4.0,800
+192,Palmshore,PE North Chennai,4.1,1000
+193,Brownie Heaven,HA South Chennai,4.7,800
+194,Double Roti,"RA Nagar, North Chennai",4.4,1000
+195,Little Italy,"IA Nagar, North Chennai",4.5,1500
+196,Fuel Juice And Pasta Bar,BK North Chennai,4.4,500
+197,The Cascade,"CR Tower,Anna Nagar, North Chennai",4.2,800
+198,That Waffle Place,PR Central Chennai,4.1,300
+199,Creamy Inn,"IA Nagar, North Chennai",4.3,300
+200,Superstar Pizza,PE North Chennai,4.2,800
+201,Savoury Sea Shell,"SA Nagar, North Chennai",4.2,1000
+202,The Republik Beer Cafe,CA South Chennai,4.1,1500
+203,Convo @ C,C2 South Chennai,4.4,900
+204,Writer's Cafe,CA South Chennai,4.5,800
+205,Bombay Brasserie,"BV 77,Adyar, South Chennai",4.3,1400
+206,Prive Restaurant,"RV Hotel,Kilpauk, North Chennai",4.3,1200
+207,Asian Station,"SA Nagar, North Chennai",4.1,1100
+208,Southern Chinese,"CA Nagar, North Chennai",4.2,800
+209,Prems Graama Bhojanam,BA South Chennai,4.6,300
+210,Mozza,"MA Nagar, North Chennai",4.3,1200
+211,Little North,NK North Chennai,4.0,800
+212,The Scoop Bar,"BA Nagar, North Chennai",4.1,600
+213,Dindigul Thalappakatti,"TA Nagar, North Chennai",4.0,700
+214,Ente Keralam,"KA Nagar, North Chennai",4.3,800
+215,Desi Street,SA Central Chennai,4.1,1000
+216,Chai Waale,"WV Plaza,Anna Nagar, North Chennai",5.0,200
+217,Ravi Mehra's Delhi Hotel,HK North Chennai,4.4,1000
+218,Dindigul Thalappakatti,"TA Nagar, North Chennai",4.2,700
+219,Murugan Idli Shop,SK North Chennai,4.0,300
+220,Dindigul Thalappakatti,"TV Towers,Triplicane, North Chennai",4.7,700
+221,Slounge,"SL Tree Hotel Shimona,Manapakkam, West Chennai",4.2,1200
+222,Bronx,"BH Manhattan,Mylapore, Central Chennai",5.0,1100
+223,Skyloft,"SF - A Radha Hotel,Manapakkam, West Chennai",4.4,1500
+224,Champions Bar,"BM Inn,Egmore, North Chennai",4.0,1000
+225,Cafe Arabica,"AA Nagar, North Chennai",4.2,800
+226,Juice Forest,"FA Nagar, North Chennai",4.0,300
+227,Khandani Rajdhani,"RP Market City,Velachery, South West Chennai",4.0,1200
+228,Cold Stone Creamery,"CA Nagar, North Chennai",5.0,400
+229,Haven Sampoorna,SV South West Chennai,4.3,1200
+230,Collage By Toscano,"TV Mall,Anna Nagar, North Chennai",4.4,300
+231,Monkey Bar,"BA Nagar, North Chennai",4.4,2000
+232,Taco Bell,"BV Mall,Anna Nagar, North Chennai",4.3,500
+233,Millet Maagic Meal,"MA Nagar, North Chennai",4.6,300
+234,Fromage,"FS Greenways,MRC Nagar, Central Chennai",4.3,1400
+235,Writer's Cafe,"CV Mall,Anna Nagar, North Chennai",4.4,800
+236,Brownie Heaven,"HV Mall,Anna Nagar, North Chennai",4.2,800
+237,Cream Centre,"CA Nagar, North Chennai",4.5,1600
+238,Broken Bridge Cafe by Radio Room,"RS Greenways,MRC Nagar, Central Chennai",4.5,1200
+239,Roll Over,"OS Thomas Mount, West Chennai",4.1,400
+240,Subway,"SV Mall,Anna Nagar, North Chennai",4.0,500
+241,Pizza Hut,HA South Chennai,4.0,800
+242,Frozen Bottle,BV South West Chennai,4.0,400
+243,6th Avenue Restobar,"RA Nagar, North Chennai",4.0,1600
+244,The Cake Shop,"ST Leela Palace,MRC Nagar, Central Chennai",4.8,1000
+245,Copper Chimney,"CP Market City,Velachery, South West Chennai",4.2,1500
+246,Cream & Fudge,FS Central Chennai,4.3,400
+247,China X,"XO Leela Palace,MRC Nagar, Central Chennai",4.3,3000
+248,Ayur Square Veg Restaurant,RV South West Chennai,4.8,700
+249,Urban Spatula,"SA Nagar, North Chennai",4.2,900
+250,Spectra,"ST Leela Palace,MRC Nagar, Central Chennai",4.2,2900
+251,Coal Barbecues,BV South West Chennai,4.1,1800
+252,Superstar Pizza,"PA Nagar, North Chennai",4.3,800
+253,Waves,"WR Chennai Egmore,Egmore, North Chennai",4.2,2100
+254,Patissez,"PP Market City,Velachery, South West Chennai",4.2,1300
+255,Jamavar,"JT Leela Palace,MRC Nagar, Central Chennai",4.2,3000
+256,Punjab Grill,"GP Market City,Velachery, South West Chennai",4.2,2000
+257,Wow! Momo,MA West Chennai,5.0,400
+258,Palmshore,PR West Chennai,4.3,1000
+259,Chili’s American Grill and Bar,"BP Market City,Velachery, South West Chennai",4.1,1500
+260,MKC - Madras Kitchen Company,"CT Westin Chennai,Velachery, South West Chennai",4.2,1400
+261,Mainland China,"CA Nagar, North Chennai",4.2,1200
+262,Seasonal Tastes,"TT Westin Chennai,Velachery, South West Chennai",4.2,3600
+263,Message In A Bottle,BE North Chennai,4.1,1600
+264,Library Blu,"BT Leela Palace,MRC Nagar, Central Chennai",4.2,2300
+265,Lobby Lounge,"LT Leela Palace,MRC Nagar, Central Chennai",4.0,2000
+266,The Mist,"MA Nagar, North Chennai",4.2,1000
+267,That Waffle Place,"PA Nagar, North Chennai",4.2,300
+268,Willows,"WT Westin Chennai,Velachery, South West Chennai",4.1,2500
+269,Sunset Grill,"GT Westin Chennai,Velachery, South West Chennai",4.1,2500
+270,Top Roof Restaurant,RM West Chennai,4.0,500
+271,Dindigul Thalappakatti,"TD IT Park,Ramapuram, West Chennai",4.5,700
+272,Cook Gramam,"GA Nagar, North Chennai",4.3,500
+273,Lattice,LA South Chennai,4.1,1600
+274,Chennai Kulfi,"KA Nagar, North Chennai",4.6,200
+275,The Ma,"MM ShopAdyar, South Chennai",4.7,600
+276,Haven Sampoorna,"SA Complex,Besant Nagar, South Chennai",4.4,1200
+277,ABs - Absolute Barbecues,BA South Chennai,4.0,1800
+278,Buttons Cupcakes,"CB Nagar, South Chennai",5.0,300
+279,Shout Bar & Cafe,CR West Chennai,4.0,1400
+280,The Tickle Truck,"TB Nagar, South Chennai",4.6,200
+281,The Cycle Gap,GA South Chennai,4.0,1700
+282,Hotel Saravana Bhavan,BP West Chennai,4.2,600
+283,99 Pancakes,"PB Nagar, South Chennai",4.7,300
+284,ABs - Absolute Barbecues,BV South West Chennai,4.3,1800
+285,Kurtosh Bistro,"BB Nagar, South Chennai",4.5,700
+286,Little Italy,"IB Nagar, South Chennai",4.4,1500
+287,Middle Of No Where,WM West Chennai,4.1,1200
+288,Mash Resto Cafe,"CB Nagar, South Chennai",4.3,800
+289,Superstar Pizza,"PB Nagar, South Chennai",4.2,800
+290,The Great Kabab Factory,"FR Blu GRT Hotel,St. Thomas Mount, West Chennai",4.4,3000
+291,Jonah's Bistro,"BB Nagar, South Chennai",4.1,1400
+292,Writer's Cafe,CT South West Chennai,4.5,800
+293,Sandwich Square,"SB Nagar, South Chennai",4.1,600
+294,Dindigul Thalappakatti,"TB Nagar, South Chennai",4.0,1000
+295,Boats,"BB Nagar, South Chennai",4.0,1900
+296,Atte - Glocal Cafe,"CB Nagar, South Chennai",4.0,500
+297,The Cascade,"CB Nagar, South Chennai",4.2,800
+298,Blu Hickey Bistro,"BR Blu GRT Hotel,St. Thomas Mount, West Chennai",4.4,2000
+299,ABs - Absolute Barbecues,BP West Chennai,4.2,1800
+300,The Kati Roll Shop,"SB Nagar, South Chennai",4.0,500
+301,Ministry of Chutneys,"CR Blu GRT Hotel,St. Thomas Mount, West Chennai",4.1,2500
+302,Dindigul Thalappakatti,TP West Chennai,4.4,700
+303,The Alcove,"AB Nagar, South Chennai",4.1,1500
+304,Diff 4,42 South West Chennai,4.1,1900
+305,Cinnamon,"CT Hotel,Meenambakkam, South West Chennai",4.1,2500
+306,Samudra,"ST Hotel,Meenambakkam, South West Chennai",4.0,1200
+307,M,"MA - Global Veg KitchenGrand Arcade,Velachery, South West Chennai",4.3,900
+308,Pind,PV South West Chennai,4.1,1000
+309,TN 72 Cafe,CK South Chennai,4.5,400
+310,Score - The Sports Bar & Grill,"GH Inn,Thiruvanmiyur, South Chennai",4.4,1800
+311,Chennai Kulfi,"KA Nagar, North Chennai",4.3,200
+312,Waf Bites,BM West Chennai,4.4,300
+313,Cafe G,"GH Inn,Thiruvanmiyur, South Chennai",4.1,1800
+314,Dindigul Thalappakatti,TM West Chennai,4.1,700
+315,Creamy Inn,IV South West Chennai,5.0,300
+316,The Lounge,"LH Inn,Thiruvanmiyur, South Chennai",4.0,1000
+317,The Cascade,"CA Santham Building,Mogappair, West Chennai",4.6,800
+318,Chop N Stix,SP West Chennai,4.3,1000
+319,East Coast at Madras Square,SN South Chennai,4.5,1400
+320,Barbeque Nation,"NT Grand Mall,Velachery, South West Chennai",4.1,1800
+321,Fuel Juice & Pasta Bar,BM West Chennai,4.7,500
+322,Tipsy Crow,"CG Arcade,Velachery, South West Chennai",4.0,1800
+323,Twist Restaurant,"RT Chennai,Perungudi, South West Chennai",4.5,2500
+324,The Madras Diner,DM West Chennai,4.3,900
+325,Noodle Bowl,BP West Chennai,4.0,600
+326,Pedreno's,"PO Mahabalipuram Road OMR, South West Chennai",4.6,2500
+327,Donut House,HP South West Chennai,5.0,400
+328,Pitcherr Perfect,PK South Chennai,4.0,1600
+329,Tasty Kitchen,KP North Chennai,4.2,600
+330,Dindigul Thalappakatti,TP North Chennai,4.3,700
+331,Chaat Chatore,CI West Chennai,4.4,300
+332,Double Roti,RN South Chennai,4.3,1000
+333,Dosa.in,DM West Chennai,4.3,300
+334,Buhari Restaurant,"RP Towers,Poonamallee, West Chennai",4.3,1000
+335,Bhatinda Xpress,"XM Arcade,Thuraipakkam, South West Chennai",4.2,1200
+336,The Bench Cafe,CK North Chennai,4.1,600
+337,Pind,"PM Arcade,Thuraipakkam, South West Chennai",4.4,1000
+338,Dindigul Thalappakatti,"TO Mahabalipuram Road OMR, South West Chennai",5.0,700
+339,Oasis,"OP Plaza Chennai,Thuraipakkam, South West Chennai",4.4,1500
+340,Barbeque Nation,NT South West Chennai,4.2,2000
+341,Hub At E,EC South Chennai,4.2,2900
+342,Dindigul Thalappakatti,TV South Chennai,4.2,700
+343,Flower Drum,DT South West Chennai,4.3,1100
+344,"Tosai clubThuraipakkam, South West Chennai₹ 800 for 2 (approx) | North Indian, Chinese, Continental, South Indian",,4.0,800
+345,Chennai Kulfi,"KO Food Street,Injambakkam, South Chennai",4.5,200
+346,Orange Coconut Wine & Dine,DT South West Chennai,4.3,1300
+347,Dindigul Thalappakatti,TT South West Chennai,4.3,700
+348,Palmshore,PM South West Chennai,4.3,1000
+349,Dindigul Thalappakatti,TM South West Chennai,4.1,700
+350,Le Wrap Factorie,FM South West Chennai,4.7,300
+351,The Cascade,CM South West Chennai,4.0,800
+352,Express By A,AB South West Chennai,4.8,600
+353,Jugo Cafe,CM South West Chennai,4.3,700
+354,Cold Stone Creamery,"CE Coast Road, South Chennai",4.6,400
+355,Orange Wok,WC South West Chennai,4.1,1000
+356,Sian,"SV Chennai,Sholinganallur, South West Chennai",4.3,1800
+357,N,"NI Asian Bar & CafeNovotel Chennai OMR,Sholinganallur, South West Chennai",4.3,2500
+358,Mynt,"MV Chennai,Sholinganallur, South West Chennai",4.0,2000
+359,The Square,"SN Chennai OMR,Sholinganallur, South West Chennai",4.1,2500
+360,Barbeque Nation,NC South West Chennai,4.0,1800
+361,Delhi Dhaba,DA South Chennai,4.0,800
+362,Delhi Highway,HS South West Chennai,4.1,1000
+363,Hola,HC South West Chennai,4.0,1200
+364,Dindigul Thalappakatti,TS South Chennai,4.0,700
+365,Kipling Cafe,"CE Coast Road, South Chennai",4.2,1600
+366,Tuscana Pizzeria,PA South Chennai,4.2,1200
+367,Dindigul Thalappakatti,TP West Chennai,4.1,700
+368,Prive Restaurant,"RE Coast Road, South Chennai",4.3,1200
+369,Tibbs Frankie,"FT East, South West Chennai",4.5,200
+370,Madras Coffee House,"HT East, South West Chennai",4.5,200
+371,Gossip Fusion Bistro & Dessert Bar,BU South Chennai,4.5,1500
+372,Robot,RS South West Chennai,4.1,1200
+373,Regos Cafe,"CT West, South West Chennai",4.8,400
+374,Coal Barbecues,BN South West Chennai,4.1,1800
+375,ABs - Absolute Barbecues,"BV Mall,Navalur, South West Chennai",4.2,1800
+376,Frozen Bottle,"BO Food Street,Navalur, South West Chennai",4.5,400
+377,Sulthan's Biryani,"BO Food Street,Navalur, South West Chennai",4.2,700
+378,Buttons Cupcakes,"CT Marina Mall,Egattur, South West Chennai",5.0,300
+379,Orange Wok,"WT Marina Mall,Egattur, South West Chennai",4.2,1000
+380,The Square,"SN Chennai Sipcot Hotel,Egattur, South West Chennai",4.2,2500
+381,Dindigul Thalappakatti,TV South West Chennai,4.0,700
+382,Dindigul Thalappakatti,TP South West Chennai,4.0,700
+383,Kulfi Bitz,"BO Food Street,GST Road, South West Chennai",5.0,300
+384,Pelican Deck,"DS Grand Chennai Resort & Spa,Mahabalipuram, South Chennai",5.0,3000
+385,The Reef,"RS Grand Chennai Resort & Spa,Mahabalipuram, South Chennai",4.3,1800
+386,Tao of Peng,"PI Chennai Mahabalipuram Resort,Mahabalipuram, South Chennai",4.5,4000
+387,The Melting Pot,"PI Chennai Mahabalipuram Resort,Mahabalipuram, South Chennai",4.3,1300
+388,Kokommo,"KI Chennai Mahabalipuram Resort,Mahabalipuram, South Chennai",4.1,2500
+389,Melange,"MM Chennai,Sriperumbudur, West Chennai",4.3,1600
+390,Waters Edge Cafe,"CR Blu Resort Temple Bay Mamallapuram,Mahabalipuram, South Chennai",4.4,3200
+391,The Waterfall Restaurant,RV West Chennai,4.1,1700
+392,Pizza Hut - 1,"17 Nagar, West Chennai",4.1,800
+393,Sandy's Chocolate Laboratory,LN Central Chennai,4.4,1200
+394,Pizza Hut - 1,"17 Gee Emerald Complex,Nungambakkam, Central Chennai",4.3,800
+395,Fabcafe by Fabindia,FA Central Chennai,4.4,1500
+396,Earthen Oven,"OW Chennai,Gopalapuram, Central Chennai",4.4,2000
+397,Welcom,"WC MarinaWelcomHotel Chennai,Gopalapuram, Central Chennai",4.3,1500
+398,Cafe Coffee Day,DG South Chennai,4.4,900
+399,Pizza Hut - 1,"17 Towers,Mylapore, Central Chennai",4.5,800
+400,Namma Veedu Vasanta Bhavan,BM Central Chennai,4.5,700
+401,Pizza Hut - 1,"17 Avenue Mall,Royapettah, Central Chennai",4.0,800
+402,Pizza Hut - 1,"17 Market City,Velachery, South West Chennai",4.6,800
+403,Pizza Hut - 1,"17 Nagar, North Chennai",4.0,800
+404,Namma Veedu Vasanta Bhavan,BN South Chennai,4.0,700
+405,Namma Veedu Vasanta Bhavan,BC South West Chennai,4.0,700
+406,Namma Veedu Vasanta Bhavan,BM South West Chennai,4.0,700
+407,Cafe Coffee Day,DS South Chennai,4.5,900
+408,Topi Vappa Biriyani,BK South West Chennai,5.0,700
