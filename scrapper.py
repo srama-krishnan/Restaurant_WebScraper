@@ -84,7 +84,7 @@ def extract_ratings(data):
     if rating_value != 'Not available':
         return float(rating_value)
     else:
-        return "NR"
+        return 0.0
 
 def extract_prices(data):
     """
@@ -179,4 +179,9 @@ df = pd.DataFrame({
 
 # Save the DataFrame to an Excel file
 df.to_excel('XL_Hotel_Dineout_Scrap.xlsx', index=True)
-df.to_csv('CSV_Hotel_Dineout_Scrap.csv', index=True)
+df.to_csv('All_Restaurant_Details.csv', index=True)
+high_rated_hotels = df[df['Rating (5)'] >= 4]
+high_rated_hotels.reset_index(drop=True, inplace=True)
+
+# Save the filtered DataFrame to a new CSV file
+high_rated_hotels.to_csv('Best_Restaurants_of_Chennai.csv', index=True)
